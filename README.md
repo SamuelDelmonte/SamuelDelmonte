@@ -9,7 +9,7 @@
 [![Python](img/download_01.png)](https://python.org) [![GitHub](img/download_02.png)](https://github.com) [![Open Source](img/pngwing.com.png)](https://opensource.org)
 
 
-#👀 I’m interested in ... 
+# 👀 I’m interested in ... 
 Interessado em impulsionar inovações científicas que integrem IA e física, por meio das simulações computacionais, resultando
 análise de fenômenos quânticos e desenvolvimento de modelos preditivos em Python. 
 em soluções transparentes e aplicáveis em múltiplos domínios.
