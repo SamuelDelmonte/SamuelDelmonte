@@ -6,12 +6,11 @@
    Especialista no desenvolvimento de algoritmos de **Machine Learning** e **Deep Learning** com ênfase em IA Interpretável (XAI) e extração de leis analíticas a partir de dados numéricos (**Regressão Simbólica**).  
    Pesquisador em Inteligência Artificial e Física com experiência em modelagem matemática avançada, regressão simbólica (PySR) e aprendizado de máquina interpretável para aplicação em sistemas complexos. 
 <div align="center">
-  <img src="img/logo-favicon.png" alt="livro" width="45%"/>
-  <img src="img/img05.png" alt="logo" width="40%"/>
+  <img src="img/logo-favicon.png" alt="logo" width="45%"/>
+  <img src="img/img05.png" alt="logo-distorcido" width="45%"/>
   
 </div>
 ---
-[![Python](img/samuel-delmonte02.jpg)](https://python.org)  [![Python](img/logo-favicon.png)]      
 
 
 ## 👀 I’m interested in ... 
@@ -19,13 +18,18 @@ Interessado em impulsionar inovações científicas que integrem IA e física, p
 análise de fenômenos quânticos e desenvolvimento de modelos preditivos em Python. 
 em soluções transparentes e aplicáveis em múltiplos domínios.
 
-[![Open Source](img/grafico.png)](https://opensource.org)
+<div align="center">
+  <img src="img/img01.png" alt="logo" width="65%"/>  
+</div>
 
 ## 🌱 I’m currently learning ... 
 Focado no aprendizado das técnicas do paradigma da **Regresão Simbólica**.
 
-[![GitHub](img/formula.png)](https://github.com)
-
+<div align="center">
+  <img src="img/img06.jpg" alt="logo" width="45%"/>
+  <img src="img/img06.png" alt="logo-distorcido" width="45%"/>
+  
+</div>
 
 ### 🛠️ Tecnologias e Ferramentas
 
