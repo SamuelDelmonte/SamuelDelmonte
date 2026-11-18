@@ -1,6 +1,3 @@
-<div align="center"   background="linear-gradient(135deg, #0d1117 0%, #161b22 100%)">
-  <img src="img/logo.png" alt="Banner do perfil" width="50%" />
-</div>
 
 ## 👋 Hi, I’m @SamuelDelmonte
 
@@ -8,7 +5,12 @@
    Perfil analítico altamente avançado, focado na aplicação do método científico, modelagem estocástica e simulação numérica para a resolução de problemas complexos. 
    Especialista no desenvolvimento de algoritmos de **Machine Learning** e **Deep Learning** com ênfase em IA Interpretável (XAI) e extração de leis analíticas a partir de dados numéricos (**Regressão Simbólica**).  
    Pesquisador em Inteligência Artificial e Física com experiência em modelagem matemática avançada, regressão simbólica (PySR) e aprendizado de máquina interpretável para aplicação em sistemas complexos. 
-
+<div align="left">
+  <img src="img/img01.png" alt="HTML5" />
+  <img src="img/img02.png" alt="CSS3" />
+  <img src="img/img03.png" alt="JavaScript" />
+  
+</div>
 ---
 [![Python](img/samuel-delmonte02.jpg)](https://python.org)  [![Python](img/logo-favicon.png)]      
 
