@@ -26,7 +26,7 @@ em soluções transparentes e aplicáveis em múltiplos domínios.
 Focado no aprendizado das técnicas do paradigma da **Regresão Simbólica**.
 
 <div align="center">
-  <img src="img/img02.png" alt="logo" width="45%"/>
+  <img src="img/img03.png" alt="logo" width="45%"/>
   <img src="img/img06.png" alt="logo-distorcido" width="45%"/>
   
 </div>
@@ -40,11 +40,7 @@ Focado no aprendizado das técnicas do paradigma da **Regresão Simbólica**.
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="GitHub" />
 </div>
-<div align="center">
-  <img src="img/integral.png" alt="logo" width="45%"/>
-  <img src="img/img03.png" alt="logo-distorcido" width="45%"/>
-  
-</div>
+
 <br />
 
 
