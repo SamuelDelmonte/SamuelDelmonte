@@ -5,7 +5,7 @@
    Perfil analítico altamente avançado, focado na aplicação do método científico, modelagem estocástica e simulação numérica para a resolução de problemas complexos. 
    Especialista no desenvolvimento de algoritmos de **Machine Learning** e **Deep Learning** com ênfase em IA Interpretável (XAI) e extração de leis analíticas a partir de dados numéricos (**Regressão Simbólica**).  
    Pesquisador em Inteligência Artificial e Física com experiência em modelagem matemática avançada, regressão simbólica (PySR) e aprendizado de máquina interpretável para aplicação em sistemas complexos. 
-<div align="left">
+<div align="center">
   <img src="img/img04.png" alt="livro" width="45%"/>
   <img src="img/img05.png" alt="logo" width="40%"/>
   
