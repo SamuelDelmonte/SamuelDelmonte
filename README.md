@@ -6,7 +6,7 @@
    Pesquisador em Inteligência Artificial e Física com experiência em modelagem matemática avançada, regressão simbólica (PySR) e aprendizado de máquina interpretável para aplicação em sistemas complexos. 
 
 ---
-[![Python](img/download_01.png)](https://python.org) [![GitHub](img/download_02.png)](https://github.com) [![Open Source](img/pngwing.com.png)](https://opensource.org)
+[![Python](TCC_Bacharelado_Física/img/download_01.png)](https://python.org) [![GitHub](img/download_02.png)](https://github.com) [![Open Source](img/pngwing.com.png)](https://opensource.org)
 
 
 # 👀 I’m interested in ... 
