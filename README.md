@@ -1,12 +1,48 @@
-<style>
-  div {
-  background-image: url('img/logo.png');
-  background-size: cover;     
-  background-position: center;  
-  background-repeat: no-repeat; 
-  background-attachment: fixed; 
-}
-</style>
+<div align="center">
+  <h1>Olá! Eu sou Seu Nome 👋</h1>
+  <p>Desenvolvedor(a) Front-end apaixonado(a) por criar interfaces limpas, acessíveis e responsivas.</p>
+
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  <a href="https://github.io" target="_blank">
+    <img src="https://shields.io" alt="Portfólio" />
+  </a>
+</div>
+
+<br />
+
+### 🚀 Sobre mim
+- 🔭 Atualmente trabalhando em projetos com **HTML, CSS e JavaScript**.
+- 🌱 Estudando **React, TypeScript e Boas Práticas de UI/UX**.
+- 💬 Pode me chamar para conversar sobre desenvolvimento web e front-end.
+
+<br />
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+</div>
+
+<br />
+
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com">
+    <img height="165em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+    <img height="165em" src="https://vercel.app" alt="Linguagens mais usadas" />
+  </a>
+</div>
+
 
 <div align="center">
   <img src="img/logo.png" alt="Logo" width="600" />
