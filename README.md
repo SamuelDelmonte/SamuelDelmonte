@@ -1,8 +1,20 @@
+<style>
+  body {
+  background-image: url('img/logo.png');
+  background-size: cover;       /* Faz a imagem cobrir toda a tela */
+  background-position: center;  /* Centraliza a imagem */
+  background-repeat: no-repeat; /* Evita que a imagem se repita */
+  background-attachment: fixed; /* Mantém o fundo fixo ao rolar */
+}
+</style>
+
 <div align="center">
   <img src="img/logo.png" alt="Logo" width="600" />
 </div>
 
-
+<div align="center">
+  <img src="img/logo.png" alt="Banner do perfil" width="100%" />
+</div>
 
 ## 👋 Hi, I’m @SamuelDelmonte
 
