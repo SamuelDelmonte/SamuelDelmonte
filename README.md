@@ -10,8 +10,7 @@
 
 <div align="center">
 
-      <p>Portfólio</p>
-               <p>Blog</p>
+      <h1>Portfolio</h1>
    <a href="https://samueldelmonte.com.br/" target="blank">
   <img src="img/logo-favicon.png" alt="logo" width="45%"/>
    </a>
