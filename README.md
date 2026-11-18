@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Banner do Perfil" />
+  <img src="banner.svg" alt="Banner do Perfil" />
 </div>
 
 <div align="center">
