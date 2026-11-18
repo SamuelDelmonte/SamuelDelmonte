@@ -6,7 +6,7 @@
    Especialista no desenvolvimento de algoritmos de **Machine Learning** e **Deep Learning** com ênfase em IA Interpretável (XAI) e extração de leis analíticas a partir de dados numéricos (**Regressão Simbólica**).  
    Pesquisador em Inteligência Artificial e Física com experiência em modelagem matemática avançada, regressão simbólica (PySR) e aprendizado de máquina interpretável para aplicação em sistemas complexos. 
 <div align="left">
-  <img src="img/img01.png" alt="HTML5" />
+  <img src="img/img01.png" alt="HTML5" width="30%"/>
   <img src="img/img02.png" alt="CSS3" />
   <img src="img/img03.png" alt="JavaScript" />
   
