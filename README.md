@@ -1,10 +1,5 @@
-<table>
-  <tr>
-    <td align="center">
-      <img src="img/logo-favicon.png" width="500" />
-    </td>
-  </tr>
-</table>
+![Card do Projeto](img/logo.svg)
+
 
 
 ## 👋 Hi, I’m @SamuelDelmonte
