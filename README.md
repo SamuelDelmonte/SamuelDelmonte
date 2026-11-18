@@ -1,29 +1,3 @@
-
-### 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em projetos com **HTML, CSS e JavaScript**.
-- 🌱 Estudando **React, TypeScript e Boas Práticas de UI/UX**.
-- 💬 Pode me chamar para conversar sobre desenvolvimento web e front-end.
-
-<br />
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-</div>
-
-<br />
-
-### 📊 Estatísticas no GitHub
-
-
-
-
-
 <div align="center"   background="linear-gradient(135deg, #0d1117 0%, #161b22 100%)">
   <img src="img/logo.png" alt="Banner do perfil" width="50%" />
 </div>
@@ -50,6 +24,20 @@ em soluções transparentes e aplicáveis em múltiplos domínios.
 Focado no aprendizado das técnicas do paradigma da **Regresão Simbólica**.
 
 [![GitHub](img/formula.png)](https://github.com)
+
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+</div>
+
+<br />
+
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
