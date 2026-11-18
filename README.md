@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @SamuelDelmonte
-  # Reinterpretação da Equação de Schrödinger via Regressão Simbólica (PySR) ⚛️🤖
+# 👋 Hi, I’m @SamuelDelmonte
 
-Reinterpreting the Schrödinger Equation via Symbolic Regression (PySR)This research explores the intersection of Quantum Mechanics and Interpretable Machine Learning. By leveraging Symbolic Regression, the project demonstrates how AI can "rediscover" fundamental physical laws—specifically the Infinite Potential Well—from numerical data. Unlike black-box neural networks, this approach focuses on mathematical transparency and scientific interpretability.
+Bacharel em Física com pós-graduação em Inteligência Artificial. Perfil analítico
+altamente avançado, focado na aplicação do método científico, modelagem
+estocástica e simulação numérica para a resolução de problemas complexos.
+Especialista no desenvolvimento de algoritmos de Machine Learning e Deep
+Learning com ênfase em IA Interpretável (XAI) e extração de leis analíticas a partir
+de dados numéricos (Regressão Simbólica). Experiência prática na criação de
+frameworks computacionais preditivos, análise de dados de alta dimensionalidade e
+transformação de teorias abstratas em códigos escaláveis em Python. Pesquisador
+em Inteligência Artificial e Física com experiência em modelagem matemática
+avançada, regressão simbólica (PySR) e aprendizado de máquina interpretável para
+aplicação em sistemas complexos. Forte domínio em simulações computacionais,
+análise de fenômenos quânticos e desenvolvimento de modelos preditivos em
+Python. Focado em impulsionar inovações científicas que integrem IA e física para
+soluções transparentes e aplicáveis em múltiplos domínios.
+
 
 Trabalho de Conclusão de Curso (TCC) para o Bacharelado em Física. Este projeto explora a interseção entre **Mecânica Quântica** e **Aprendizado de Máquina**, utilizando Regressão Simbólica para redescobrir leis físicas a partir de dados numéricos.
 
