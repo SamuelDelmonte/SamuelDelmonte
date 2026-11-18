@@ -7,7 +7,7 @@
    Pesquisador em Inteligência Artificial e Física com experiência em modelagem matemática avançada, regressão simbólica (PySR) e aprendizado de máquina interpretável para aplicação em sistemas complexos. 
    
 
-### Portfolio                            ### Blog
+### Portfolio ###                            ### Blog
 <div align="center">
 
    <a href="https://samueldelmonte.com.br/" target="blank">
