@@ -1,5 +1,5 @@
 <style>
-  body {
+  div {
   background-image: url('img/logo.png');
   background-size: cover;     
   background-position: center;  
