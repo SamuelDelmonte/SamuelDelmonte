@@ -1,4 +1,6 @@
-![Card do Projeto](img/logo.svg)
+<div align="center">
+  <img src="img/logo.png" alt="Logo" width="600" />
+</div>
 
 
 
