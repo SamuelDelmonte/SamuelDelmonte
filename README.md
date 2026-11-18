@@ -31,15 +31,19 @@ Focado no aprendizado das técnicas do paradigma da **Regresão Simbólica**.
   
 </div>
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Publicações...
 
-<div align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
+<div align="center">
+  <img src="img/img04.png" alt="logo" width="45%"/>
+  <img src="img/img06.png" alt="logo-distorcido" width="45%"/>
+  
 </div>
+
+### Livro: **A Desordem** - A arte de pensar com a própria cabeça
+
+
+
+
 
 <br />
 
