@@ -6,9 +6,12 @@
    Especialista no desenvolvimento de algoritmos de **Machine Learning** e **Deep Learning** com ênfase em IA Interpretável (XAI) e extração de leis analíticas a partir de dados numéricos (**Regressão Simbólica**).  
    Pesquisador em Inteligência Artificial e Física com experiência em modelagem matemática avançada, regressão simbólica (PySR) e aprendizado de máquina interpretável para aplicação em sistemas complexos. 
 <div align="center">
+   <a href="https://samueldelmonte.com.br/">
   <img src="img/logo-favicon.png" alt="logo" width="45%"/>
+   </a>
+   <a href="https://pensamentoanarquista.com.br/">
   <img src="img/img05.png" alt="logo-distorcido" width="45%"/>
-  
+   </a>
 </div>
 ---
 
