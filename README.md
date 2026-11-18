@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @SamuelDelmonte
+## 👋 Hi, I’m @SamuelDelmonte
 
    Bacharel em Física com pós-graduação em Inteligência Artificial.  
    Perfil analítico altamente avançado, focado na aplicação do método científico, modelagem estocástica e simulação numérica para a resolução de problemas complexos. 
@@ -9,13 +9,13 @@
 [![Python](TCC_Bacharelado_Física/img/download_01.png)](https://python.org) [![GitHub](img/download_02.png)](https://github.com) [![Open Source](img/pngwing.com.png)](https://opensource.org)
 
 
-# 👀 I’m interested in ... 
+## 👀 I’m interested in ... 
 Interessado em impulsionar inovações científicas que integrem IA e física, por meio das simulações computacionais, resultando
 análise de fenômenos quânticos e desenvolvimento de modelos preditivos em Python. 
 em soluções transparentes e aplicáveis em múltiplos domínios.
 
 
-# 🌱 I’m currently learning ... 
+## 🌱 I’m currently learning ... 
 Focado no aprendizado das técnicas do paradigma da **Regresão Simbólica**.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
