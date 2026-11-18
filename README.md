@@ -40,17 +40,9 @@
 
 ### 📊 Estatísticas no GitHub
 
-<div align="center">
-  <a href="https://github.com">
-    <img height="165em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-    <img height="165em" src="https://vercel.app" alt="Linguagens mais usadas" />
-  </a>
-</div>
 
 
-<div align="center">
-  <img src="img/logo.png" alt="Logo" width="600" />
-</div>
+
 
 <div align="center"   background="linear-gradient(135deg, #0d1117 0%, #161b22 100%)">
   <img src="img/logo.png" alt="Banner do perfil" width="100%" />
