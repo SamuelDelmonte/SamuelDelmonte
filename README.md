@@ -52,7 +52,7 @@
   <img src="img/logo.png" alt="Logo" width="600" />
 </div>
 
-<div align="center">
+<div align="center"   background="linear-gradient(135deg, #0d1117 0%, #161b22 100%)">
   <img src="img/logo.png" alt="Banner do perfil" width="100%" />
 </div>
 
