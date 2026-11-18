@@ -1,3 +1,12 @@
+<table>
+  <tr>
+    <td align="center">
+      <img src="img/logo-favicon.png" width="500" />
+    </td>
+  </tr>
+</table>
+
+
 ## 👋 Hi, I’m @SamuelDelmonte
 
    Bacharel em Física com pós-graduação em Inteligência Artificial.  
