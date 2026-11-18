@@ -32,15 +32,14 @@ Focado no aprendizado das técnicas do paradigma da **Regresão Simbólica**.
 </div>
 
 ## 🛠️ Publicações...
+### Livro: **A Desordem** - A arte de pensar com a própria cabeça
 
 <div align="center">
-  <img src="img/img04.png" alt="logo" width="45%"/>
-  <img src="img/img06.png" alt="logo-distorcido" width="45%"/>
+  <img src="img/img04.png" alt="logo" width="75%"/>
   
 </div>
 
-### Livro: **A Desordem** - A arte de pensar com a própria cabeça
-
+ 
 
 
 
