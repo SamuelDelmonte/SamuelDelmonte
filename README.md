@@ -42,8 +42,9 @@ Focado no aprendizado das técnicas do paradigma da **Regresão Simbólica**.
 ### Livro: **A Desordem** - A arte de pensar com a própria cabeça
 
 <div align="center">
+   <a href="https://editoraappris.com.br/produto/a-desordem-a-arte-de-pensar-com-a-propria-cabeca/">
   <img src="img/img04.png" alt="logo" width="75%"/>
-  
+   </a>
 </div>
 
  
