@@ -1,10 +1,10 @@
 <style>
   body {
   background-image: url('img/logo.png');
-  background-size: cover;       /* Faz a imagem cobrir toda a tela */
-  background-position: center;  /* Centraliza a imagem */
-  background-repeat: no-repeat; /* Evita que a imagem se repita */
-  background-attachment: fixed; /* Mantém o fundo fixo ao rolar */
+  background-size: cover;     
+  background-position: center;  
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
 }
 </style>
 
