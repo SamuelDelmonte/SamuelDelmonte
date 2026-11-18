@@ -10,6 +10,10 @@ análise de fenômenos quânticos e desenvolvimento de modelos preditivos em Pyt
 ---
 [![Python](img/download_01.png)](https://python.org) [![GitHub](img/download_02.png)](https://github.com) [![Open Source](img/pngwing.com.png)](https://opensource.org)
 
+
+#👀 I’m interested in ...
+ Focado em impulsionar inovações científicas que integrem IA e física para soluções transparentes e aplicáveis em múltiplos domínios.
+
 ## 🎯 Objetivo
 
 Demonstrar a eficácia da **Regressão Simbólica** na identificação da estrutura matemática da Equação de Schrödinger, focando no modelo do **Poço de Potencial Infinito**.
@@ -39,7 +43,6 @@ Demonstrar a eficácia da **Regressão Simbólica** na identificação da estrut
 
 - `simulacao_xx.ipynb`: Geração de dados numéricos e simulação da função de onda.
 - `reg_simbolica_xx.ipynb`: Implementação da busca por equações via PySR.
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
