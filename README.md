@@ -1,23 +1,3 @@
-<div align="center">
-  <img src="banner.svg" alt="Banner do Perfil" />
-</div>
-
-<div align="center">
-  <h1>Olá! Eu sou Seu Nome 👋</h1>
-  <p>Desenvolvedor(a) Front-end apaixonado(a) por criar interfaces limpas, acessíveis e responsivas.</p>
-
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  <a href="https://github.io" target="_blank">
-    <img src="https://shields.io" alt="Portfólio" />
-  </a>
-</div>
-
-<br />
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente trabalhando em projetos com **HTML, CSS e JavaScript**.
