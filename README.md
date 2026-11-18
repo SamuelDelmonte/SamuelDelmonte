@@ -6,7 +6,7 @@
    Pesquisador em Inteligência Artificial e Física com experiência em modelagem matemática avançada, regressão simbólica (PySR) e aprendizado de máquina interpretável para aplicação em sistemas complexos. 
 
 ---
-[![Python](img/samuel-delmonte02.jpg)](https://python.org)  [![Open Source](img/pngwing.com.png)](https://opensource.org)
+[![Python](img/samuel-delmonte02.jpg)](https://python.org)  [![Python](img/logo-favicon.png)]      
 
 
 ## 👀 I’m interested in ... 
@@ -14,10 +14,13 @@ Interessado em impulsionar inovações científicas que integrem IA e física, p
 análise de fenômenos quânticos e desenvolvimento de modelos preditivos em Python. 
 em soluções transparentes e aplicáveis em múltiplos domínios.
 
-[![GitHub](img/formula.png)](https://github.com)
+[![Open Source](img/grafico.png)](https://opensource.org)
 
 ## 🌱 I’m currently learning ... 
 Focado no aprendizado das técnicas do paradigma da **Regresão Simbólica**.
+
+[![GitHub](img/formula.png)](https://github.com)
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
